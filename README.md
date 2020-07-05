@@ -48,8 +48,9 @@ python3 main.py
 All kind of Suggestions are welcomed, if you want to contribute make a PR.
 
 ---
-#### Contact - 
-<a href="https://www.linkedin.com/in/k4kratik/">LinkedIn</a> <br>
+#### Contact
+<a href="https://www.linkedin.com/in/k4kratik/">LinkedIn</a>
+<br>
 <a href="https://github.com/k4kratik">GitHub </a>
 ---
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
