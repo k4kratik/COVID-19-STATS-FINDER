@@ -1,3 +1,14 @@
+
+<br><br>
+![GitHub last commit](https://img.shields.io/github/last-commit/k4kratik/covid19-tracker)
+![GitHub repo size](https://img.shields.io/github/repo-size/k4kratik/covid19-tracker)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/k4kratik/covid19-tracker)
+<br>
+<br>
+![GitHub forks](https://img.shields.io/github/forks/k4kratik/covid19-tracker?style=social)
+![GitHub stars](https://img.shields.io/github/stars/k4kratik/covid19-tracker?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/k4kratik/covid19-tracker?style=social)
+
 # Covid19 Tracker 1.0.0
 This is a Python Project which uses Selenium Chromedriver to scrap two websites which contains the covid19 related data for India.
 ---
@@ -36,3 +47,5 @@ All kind of Suggestions are welcomed, if you want to contribute make a PR.
 <a href="https://www.linkedin.com/in/k4kratik/">LinkedIn</a> <br>
 <a href="https://github.com/k4kratik">GitHub </a>
 ---
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
