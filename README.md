@@ -5,9 +5,10 @@
 <br>
 ![GitHub stars](https://img.shields.io/github/stars/k4kratik/covid19-tracker?style=social)
 
-# Covid19 Tracker 1.0.0
-
+## Covid19-Tracker 1.0.0
+---
 This is a CLI based Python Project which uses Selenium Chromedriver to scrap two websites which contains the covid19 related data for India.
+
 ---
 ### Sample 1
 [![asciicast](https://asciinema.org/a/345465.svg)](https://asciinema.org/a/345465)
