@@ -40,4 +40,3 @@ else:
 print("Thanks for using This piece of code")
 print("Written by - Kratik Jain")
 print("Be Safe!!!")
-# This is simply Python Project which uses Selenium Chromedriver to scrap two websites which contains the current stat of all kind of cases. One website is for overall India results and the other one is for state-wise data for india only. This is simply Python Project which uses Selenium Chromedriver to scrap two websites which contains the current stat of all kind of cases. One website is for overall India results and the other one is for state-wise data for india only. This is simply Python Project which uses Selenium Chromedriver to scrap two websites which contains the current stat of all kind of cases. One website is for overall India results and the other one is for state-wise data for india only.
