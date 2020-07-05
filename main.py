@@ -20,7 +20,7 @@ retrieved_data = get_state_data(driver)
 
 driver.quit()
 
-print("\n We have Collected Data for the following states.\n")
+print("\n We have Collected Data for the following states and UTs - \n")
 c = 1
 for ele in retrieved_data[0].keys():
     print(f"{c}. {ele}")
@@ -37,6 +37,6 @@ elif your_state == 0:
 else:
     output(retrieved_data[1], retrieved_data[0], your_state)
 
-print("Thanks for using This piece of code")
+print("\n\nThanks for using This piece of code")
 print("Written by - Kratik Jain")
 print("Be Safe!!!")

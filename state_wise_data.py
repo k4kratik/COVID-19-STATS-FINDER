@@ -20,8 +20,8 @@ def get_state_data(driver):
                  range(2, count_format + 1)]
         e_data[key] = value
 
-    print(e_data)
-    print(format_of_data)
+    # print(e_data)
+    # print(format_of_data)
 
     return e_data, format_of_data
 
