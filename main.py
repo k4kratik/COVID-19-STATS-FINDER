@@ -26,16 +26,26 @@ for ele in retrieved_data[0].keys():
     print(f"{c}. {ele}")
     c += 1
 
-your_state = int(input("\nEnter Your State ID to check current COVID-19 Condition OR you can enter 0 (zero) to print "
-                       "data of all states:\t"))
 
-if your_state not in range(len(retrieved_data[0])+1):
-    print("Please Enter A Valid Integer according to your State.")
-elif your_state == 0:
-    for i in range(1, len(retrieved_data[0])+1):
-        output(retrieved_data[1], retrieved_data[0], i)
-else:
-    output(retrieved_data[1], retrieved_data[0], your_state)
+def getCount():
+    your_state = int(input("\nEnter Your State ID to check current COVID-19 Condition OR you can enter 0 (zero) to print "
+                        "data of all states:\t"))
+
+    if your_state not in range(len(retrieved_data[0])+1):
+        print("Please Enter A Valid Integer according to your State.")
+    elif your_state == 0:
+        for i in range(1, len(retrieved_data[0])+1):
+            output(retrieved_data[1], retrieved_data[0], i)
+    else:
+        output(retrieved_data[1], retrieved_data[0], your_state)
+
+ans = 'y' 
+
+while ans == 'y':
+    getCount()
+    ans = input("\nEnter 'y' for continue using this program or enter anything else to exit! ")
+
+
 
 print("\n\nThanks for using This piece of code")
 print("Written by - Kratik Jain")
