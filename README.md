@@ -31,10 +31,11 @@ Note : You have to separately install Chromedriver and add it to the PATH.
 
 For satisfying Python Related requirements, run :
 <br>
-https://github.com/k4kratik/COVID-19-STATS-FINDER/blob/master/requirements.txt#L1-#L3
 ```
 pip install -r requirements. txt 
 ```
+https://github.com/k4kratik/COVID-19-STATS-FINDER/blob/master/requirements.txt#L1-#L3
+
 and Make sure you install the compatible ChromeDriver with your Existing Chrome browser.(It should match your chrome version.)
 ---
 ### Getting Started 
