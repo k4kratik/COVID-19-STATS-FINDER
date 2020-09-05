@@ -16,6 +16,9 @@ This is a CLI based Python Project which uses Selenium Chromedriver to scrap two
 ### Sample 2
 [![asciicast](https://asciinema.org/a/345467.svg)](https://asciinema.org/a/345467)
 ---
+### Sample 3
+[![asciicast](https://asciinema.org/a/357973.svg)](https://asciinema.org/a/357973)
+---
 ### Requirements - <br>
 1. Python 3 <br>
 2. Selenium <br>
