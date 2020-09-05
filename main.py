@@ -5,11 +5,11 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd
 
 chrome_options = Options()
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 
 driver = webdriver.Chrome(options=chrome_options)
 
-# driver.minimize_window()
+driver.minimize_window()
 
 # it prints the data
 get_india_stat(driver)
