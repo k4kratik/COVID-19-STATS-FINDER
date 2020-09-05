@@ -19,7 +19,8 @@ This is a CLI based Python Project which uses Selenium Chromedriver to scrap two
 ### Requirements - <br>
 1. Python 3 <br>
 2. Selenium <br>
-3. Chrome Webdriver and It should be added to PATH(otherwise we have to specify the path explicitly!) <br>
+3. Tabulate <br>
+4. Chrome Webdriver and It should be added to PATH(otherwise we have to specify the path explicitly!) <br>
 Link for <a href="https://chromedriver.chromium.org/downloads">Chrome Webdriver Installation</a> <br>
 Note : You have to seperately install Chromedriver and add it to the PATH.
 <br>
@@ -27,8 +28,9 @@ Note : You have to seperately install Chromedriver and add it to the PATH.
 For satisfying Python Related requirements, run :
 <br>
 ```
-pip install -r requirements.txt 
+pip install -r requirements. txt 
 ```
+and Make sure you install the compatible ChromeDriver with your Existing Chrome browser.(It should match your chrome version.)
 ---
 ### Getting Started 
 Fire up a terminal in Project's root directory, and run: 

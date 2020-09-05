@@ -1,12 +1,11 @@
 def get_india_stat(driver):
 
     driver.get("https://www.mohfw.gov.in/")
+    ind_active = int(driver.find_elements_by_class_name("bg-blue")[0].text.split()[2])
 
-    ind_active = int(driver.find_elements_by_class_name("bg-blue")[0].text.split()[0])
+    ind_discharged = int(driver.find_elements_by_class_name("bg-green")[0].text.split()[2])
 
-    ind_discharged = int(driver.find_elements_by_class_name("bg-green")[0].text.split()[0])
-
-    ind_deaths = int(driver.find_elements_by_class_name("bg-red")[0].text.split()[0])
+    ind_deaths = int(driver.find_elements_by_class_name("bg-red")[0].text.split()[2])
 
     # Output Section -
     print("")
