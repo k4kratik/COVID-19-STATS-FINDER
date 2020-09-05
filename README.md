@@ -5,18 +5,18 @@
 <br>
 ![GitHub stars](https://img.shields.io/github/stars/k4kratik/covid19-tracker?style=social)
 
-## COVID-19 STAT FINDER (Indian Edition)
+## COVID-19 STATS FINDER (Indian Edition)
 ---
 This is a CLI based Python Project which uses Selenium Chromedriver to scrap two websites which contains the covid19 related data for India.
 
 ---
-### Sample 1
+### Sample 1 - SIMPLE STAT OF 1 SELECTED STATE
 [![asciicast](https://asciinema.org/a/345465.svg)](https://asciinema.org/a/345465)
 ---
-### Sample 2
+### Sample 2 - ALL STATES' COVID DATA (old)
 [![asciicast](https://asciinema.org/a/345467.svg)](https://asciinema.org/a/345467)
 ---
-### Sample 3
+### Sample 3 - ALL STATES' COVID DATA (New!)
 [![asciicast](https://asciinema.org/a/357973.svg)](https://asciinema.org/a/357973)
 ---
 ### Requirements - <br>
@@ -42,13 +42,8 @@ Fire up a terminal in Project's root directory, and run:
 python3 main.py 
 ```
 ---
-### Future Upgrades (WIP)
-1. Output in Tabular format(pandas maybe)
-2. Top 5 States
-3. Optimized Code for faster experience
----
 
-All kind of Suggestions are welcomed, if you want to contribute make a PR.
+All kind of Suggestions are welcomed, if you want to contribute, make a PR.
 
 ---
 ### Contact
