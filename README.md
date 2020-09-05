@@ -5,7 +5,7 @@
 <br>
 ![GitHub stars](https://img.shields.io/github/stars/k4kratik/covid19-tracker?style=social)
 
-## COVID-19 STATS FINDER (Indian Edition)
+## COVID-19 STATS FINDER (Indian Edition 🇮🇳)
 ---
 This is a CLI based Python Project which uses Selenium Chromedriver to scrap two websites which contains the covid19 related data for India.
 
