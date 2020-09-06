@@ -26,7 +26,7 @@ def get_state_data(driver):
     return e_data, format_of_data
 
 
-def output(format_of_data, st_data_dict, state_id):
+def state_output(format_of_data, st_data_dict, state_id):
     data_to_list = list(st_data_dict)
     state_name = data_to_list[state_id-1]
     state_data = st_data_dict[state_name]
