@@ -17,7 +17,7 @@ This is a CLI based Python Project which uses Selenium Chromedriver to scrap two
 [![asciicast](https://asciinema.org/a/345467.svg)](https://asciinema.org/a/345467)
 ---
 ### Sample 3 - ALL STATES' COVID DATA (New!)
-[![asciicast](https://asciinema.org/a/357973.svg)](https://asciinema.org/a/357973)
+[![asciicast](https://asciinema.org/a/358045.svg)](https://asciinema.org/a/358045)
 ---
 ### Requirements - <br>
 1. Python 3 <br>
