@@ -19,6 +19,7 @@ def get_state_data(driver):
         value = [int(data[i].find_element_by_xpath('td[' + str(j) + ']').text.replace(',', '')) for j in
                  range(2, count_format + 1)]
         e_data[key] = value
+        print(f"Collected Data of {i+1} states out of {count} states!", end='\r')
 
     # print(e_data)
     # print(format_of_data)

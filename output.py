@@ -20,10 +20,11 @@ def output(retrieved_data,your_state):
         state_output(retrieved_data[1], retrieved_data[0], your_state)
         print("")
 
-    continuation_flag = input("Enter 'q' to Exit or press other state code(0 for all states) to get that state's data : ")
+    continuation_flag = input("Enter other state's code(0 for all states) to get data or enter anything else to quit : ")
     print("")
     if continuation_flag == 'q' or continuation_flag == 'Q' :
-        sys.exit()
+        # sys.exit(0)
+        return False 
     else:
         try:
             output(retrieved_data, int(continuation_flag))
