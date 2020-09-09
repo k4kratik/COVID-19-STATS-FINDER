@@ -45,7 +45,7 @@ python3 main.py
 ```
 ---
 
-All kind of Suggestions are welcomed, if you want to contribute, make a PR.
+All kind of Suggestions are welcomed, if you want to contribute, raise a PR.
 
 ---
 ### Contact
